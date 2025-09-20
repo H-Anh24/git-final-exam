@@ -1,3 +1,5 @@
 - Git giúp quản lý mã nguồn hiệu quả.
 - Dễ dàng theo dõi lịch sử thay đổi.
 - Hỗ trợ làm việc nhóm tốt hơn.
+- Ban đầu hơi khó học, nhưng quen sẽ thấy tiện lợi.
+- Là công cụ không thể thiếu cho lập trình viên.
