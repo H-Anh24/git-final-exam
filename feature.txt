@@ -1,0 +1,7 @@
+Tính năng mới: Hệ thống gợi ý học tập
+
+- Tính năng sẽ phân tích tiến độ học tập của sinh viên.  
+- Đưa ra gợi ý môn học nên ưu tiên.  
+- Tự động tạo lịch học cá nhân hóa.  
+- Hỗ trợ nhắc nhở bằng thông báo.  
+- Cung cấp báo cáo tiến độ hằng tuần.  
